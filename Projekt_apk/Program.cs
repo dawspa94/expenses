@@ -8,7 +8,7 @@ namespace Projekt_apk
     class Program
     {
         static void Main(string[] args)
-        { //Aplikacja z listy proponowanych tematów - Rozliczanie domowych wydatków wraz z zapisem do pliku 
+        { //Rozliczanie domowych wydatków wraz z zapisem do pliku 
 
             WydatkiApp wydatkiApp = new WydatkiApp();
 
